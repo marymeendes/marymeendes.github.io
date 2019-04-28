@@ -3,7 +3,14 @@ body {
     width: 100%;
 }
 
-section {
+#container {
+    height: 100%;
+    width: 100%;
+}
+
+#container section {
+    width: 45%;
+    height: 45%;
     margin: 0 auto;
 }
 
