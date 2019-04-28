@@ -8,6 +8,10 @@ body {
     width: 100%;
 }
 
+#container img {
+    margin: 0 auto;
+}
+
 #container section {
     width: 25%;
     height: auto;
