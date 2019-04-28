@@ -12,6 +12,9 @@ body {
     width: 25%;
     height: auto;
     margin: 0 auto;
+    border: #f2b1bc;
+    border-width: thin;
+    border-radius: 5px;
 }
 
 #container section h1{
@@ -19,6 +22,6 @@ body {
 }
 
 #container section p{
-    margin: 0 auto;
+    margin: 1em auto;
 }
 
