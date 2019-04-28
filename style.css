@@ -8,12 +8,6 @@ body {
     width: 100%;
 }
 
-#container section img {
-    margin: 0 auto;
-    height: 50%;
-    width: 50%;
-}
-
 #container section {
     width: 25%;
     height: auto;
@@ -24,6 +18,12 @@ body {
     border-radius: 10px;
     border-style: solid;
     text-align: center;
+}
+
+#container section img {
+    margin: 0 auto;
+    height: 50%;
+    width: 50%;
 }
 
 #container section h1{
