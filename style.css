@@ -9,8 +9,16 @@ body {
 }
 
 #container section {
-    width: 45%;
-    height: 45%;
+    width: 25%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#container section h1{
+    margin: 0 auto;
+}
+
+#container section p{
     margin: 0 auto;
 }
 
